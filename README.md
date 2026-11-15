@@ -1,30 +1,30 @@
 <div align="center">
 
-```text
-   ███   █████  █████  █   █  █████  █   █  █   █   ███
-  █   █  █      █   █  █   █  █   █  ██  █   █ █   █   █
-  █████  █████  █   █  █ █ █  █   █  █ █ █    █    █████
-  █   █      █  █   █  ██ ██  █   █  █  ██    █    █   █
-  █   █  █████  █████  █   █  █████  █   █    █    █   █
+![Asowonya ♥ — Linux terminal](./linux-header.svg)
 
-     Cybersecurity | Offensive Security | Active Directory
-```
-
-**Asowonya** · [@OGUAsowonya](https://github.com/OGUAsowonya)
-
-[![eJPT — INE](https://img.shields.io/badge/INE-eJPT-78dba9?style=flat-square&labelColor=161b22)](https://ine.com/security/certifications/ejpt-certification)
-[![OSCP — OffSec](https://img.shields.io/badge/OffSec-OSCP-78dba9?style=flat-square&labelColor=161b22)](https://www.offsec.com/courses/pen-200/)
-[![CRTP — Altered Security](https://img.shields.io/badge/Altered_Security-CRTP-78dba9?style=flat-square&labelColor=161b22)](https://www.alteredsecurity.com/adlab)
+[![eJPT — INE](https://img.shields.io/badge/INE-eJPT-a6e3a1?style=flat-square&labelColor=161b22)](https://ine.com/security/certifications/ejpt-certification)
+[![OSCP — OffSec](https://img.shields.io/badge/OffSec-OSCP-a6e3a1?style=flat-square&labelColor=161b22)](https://www.offsec.com/courses/pen-200/)
+[![CRTP — Altered Security](https://img.shields.io/badge/Altered_Security-CRTP-a6e3a1?style=flat-square&labelColor=161b22)](https://www.alteredsecurity.com/adlab)
 
 </div>
 
 ---
 
-### `$ whoami`
+### `asowonya@linux:~$ whoami`
+
+```text
+       .--.         asowonya@linux
+      |o_o |        --------------
+      |:_/ |        Focus : Cybersecurity
+     //   \ \       Areas : Offensive Security / Active Directory
+    (|     | )      Certs : eJPT / OSCP / CRTP
+   /'\_   _/`\
+   \___)=(___/
+```
 
 I'm **Asowonya**, focused on cybersecurity and offensive security. I hold the **eJPT**, **OSCP**, and **CRTP** certifications.
 
-### `$ cat certifications.conf`
+### `asowonya@linux:~$ cat ~/certifications.conf`
 
 ```ini
 [eJPT]
@@ -40,14 +40,11 @@ name   = Certified Red Team Professional
 issuer = Altered Security
 ```
 
-### `$ exit`
+### `asowonya@linux:~$ exit`
 
 ```text
-Thanks for stopping by.
 Stay curious. Keep learning.
-
-Connection to github.com closed.
+logout
 ```
 
-<!-- Optional: add your public credential verification links to the badges above. -->
-<!-- Optional: add links to your security projects, write-ups, or professional profile here. -->
+<!-- Optional: replace the certification links with your public verification links. -->
