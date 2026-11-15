@@ -1,6 +1,6 @@
 <div align="center">
 
-![Asowonya ♥ — Linux terminal](./linux-header.svg)
+![Asowonya ♥ — Linux terminal](./linux-header.svg?v=2)
 
 [![eJPT — INE](https://img.shields.io/badge/INE-eJPT-a6e3a1?style=flat-square&labelColor=161b22)](https://ine.com/security/certifications/ejpt-certification)
 [![OSCP — OffSec](https://img.shields.io/badge/OffSec-OSCP-a6e3a1?style=flat-square&labelColor=161b22)](https://www.offsec.com/courses/pen-200/)
